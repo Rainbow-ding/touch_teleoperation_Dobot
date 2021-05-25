@@ -1,0 +1,6 @@
+﻿  3Dtouch_contorl_Dobot.cpp
+C:\Users\Administrator\Desktop\3Dtouch_control_Dobot\3Dtouch_contol_Dobot\3Dtouch_contorl_Dobot.cpp(105,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\3Dtouch_control_Dobot\3Dtouch_contol_Dobot\3Dtouch_contorl_Dobot.cpp(106,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+hdu.lib(hduAfx.obj) : warning LNK4099: 未找到 PDB“HDU.pdb”(使用“hdu.lib(hduAfx.obj)”或在“C:\Users\Administrator\Desktop\3Dtouch_control_Dobot\Debug\HDU.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hdu.lib(hduError.obj) : warning LNK4099: 未找到 PDB“HDU.pdb”(使用“hdu.lib(hduError.obj)”或在“C:\Users\Administrator\Desktop\3Dtouch_control_Dobot\Debug\HDU.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  3Dtouch_contol_Dobot.vcxproj -> C:\Users\Administrator\Desktop\3Dtouch_control_Dobot\Debug\3Dtouch_contol_Dobot.exe
